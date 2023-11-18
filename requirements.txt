@@ -1,0 +1,15 @@
+gTTS
+pyttsx3
+SpeechRecognition
+PyAudio
+playsound==1.2.2
+PyObjC
+sqlalchemy
+firebase
+pyserial
+python_jwt
+sseclient
+gcloud
+pycryptodome
+requests_toolbelt
+pyrebase
