@@ -1,3 +1,3 @@
 # Python Virtual Assistant
 
-This is a virtual assistant developed in Python. Documentation coming soon
+A speech-to-text assistant in Python
